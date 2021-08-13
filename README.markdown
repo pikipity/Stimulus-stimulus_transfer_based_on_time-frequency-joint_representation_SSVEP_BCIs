@@ -38,7 +38,7 @@ After downloading this repository, you can follow the follow steps to perform th
         sh ./DownloadData.sh
         ```
 
-2. This simulation requires the following matlab toolboxes:
+2. The following matlab toolboxes are required:
 
     + v2.1 MATLAB version of [Toolbox for Adaptive Fourier Decomposition](https://github.com/pikipity/Toolbox-for-Adaptive-Fourier-Decomposition): The proposed stimulus-stimulus method requires this toolbox. If the version is lower than v2.1, the MAFD is not supported. So the version **MUST** be higher than or equal to v2.1.
     + To plot results, the following toolboxes are required. If you do not need to plot results, the following toolboxes are not needed.
