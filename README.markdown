@@ -45,7 +45,9 @@ After downloading this repository, you can follow the follow steps to perform th
       + [shadedErrorBar](https://github.com/raacampbell/shadedErrorBar)
       + [sigstar](https://github.com/raacampbell/sigstar)
 
-3. In MATLAB, run `Main.m` in the path of this repository. 
+3. In MATLAB, run `Main.m` in the path of this repository. Note:
+   + The entire simulations may take a very long time and a large RAM space. So you may want to run it step by step. 
+   + If the data and results are stored in other dictionary, you can change `data_dir` and `figdir` in `Main.m`.
 
 ## Simulation results
 
