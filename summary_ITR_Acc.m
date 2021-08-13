@@ -196,6 +196,8 @@ for source_no=[4 8 12]
     axis([min(min([tmp1 tmp2]))-5 max(max([tmp1 tmp2]))+5 min(min([tmp1 tmp2]))-5 max(max([tmp1 tmp2]))+5])
     set(gca,'fontsize',10)
     grid on
+    xlabel(method_name{1})
+    ylabel(method_name{4})
     saveas(gcf,fullfile(figdir,['ITR_max_compare_14_' num2str(source_no) '.fig']))
     print(fullfile(figdir,['ITR_max_compare_14_' num2str(source_no) '.png']),'-dpng','-r300');
     close(gcf)
@@ -214,6 +216,8 @@ for source_no=[4 8 12]
     axis([min(min([tmp1 tmp2]))-5 max(max([tmp1 tmp2]))+5 min(min([tmp1 tmp2]))-5 max(max([tmp1 tmp2]))+5])
     set(gca,'fontsize',10)
     grid on
+    xlabel(method_name{5})
+    ylabel(method_name{4})
     saveas(gcf,fullfile(figdir,['ITR_max_compare_54_' num2str(source_no) '.fig']))
     print(fullfile(figdir,['ITR_max_compare_54_' num2str(source_no) '.png']),'-dpng','-r300');
     close(gcf)
@@ -232,6 +236,8 @@ for source_no=[4 8 12]
     axis([min(min([tmp1 tmp2]))-5 max(max([tmp1 tmp2]))+5 min(min([tmp1 tmp2]))-5 max(max([tmp1 tmp2]))+5])
     set(gca,'fontsize',10)
     grid on
+    xlabel(method_name{2})
+    ylabel(method_name{4})
     saveas(gcf,fullfile(figdir,['ITR_max_compare_24_' num2str(source_no) '.fig']))
     print(fullfile(figdir,['ITR_max_compare_24_' num2str(source_no) '.png']),'-dpng','-r300');
     close(gcf)
