@@ -31,7 +31,7 @@ After downloading this repository, you can follow the follow steps to perform th
 1. Download the Benchmark Dataset and put all 35 subjects' data in the `data` folder.
 
     + You can directly download data from the webpage of [Benchmark Dataset](http://bci.med.tsinghua.edu.cn/download.html).
-    + You also can use `DownloadData.sh` to download data automatically. For linux, you can directly run this script. For windows, you can use [Cygwin](https://www.cygwin.com/) to run this script. Please note that this script requires [`wget`](https://cygwin.com/packages/summary/wget.html) and [`7z`](https://cygwin.com/packages/summary/p7zip.html). You may refer the following commonds to run this script. 
+    + You also can use `DownloadData.sh` to download data automatically. For linux, you can directly run this script. For windows, you can use [Cygwin](https://www.cygwin.com/) to run this script. Please note that this script requires [`wget`](https://www.gnu.org/software/wget/) and [`7z`](https://www.7-zip.org/). You may refer the following commonds to run this script. 
 
         ```
         cd <this_repository_path>
