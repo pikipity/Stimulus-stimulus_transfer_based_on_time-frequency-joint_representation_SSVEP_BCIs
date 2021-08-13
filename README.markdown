@@ -20,7 +20,7 @@ In the proposed stimulus-stimulus transfer, the DP-MAFD is firstly applied to de
 
 ![Proposed stimulus-stimulus transfer](./images/Plot_Progress_big.png)
 
-## Codes of simulations
+## Run simulations
 
 After downloading this repository, you can follow the follow steps to perform the stimulations. The main codes are based on MATLAB and have been verified in MATLAB R2019a
 
