@@ -8,6 +8,8 @@ Codes in this repository implement the simulations for the Benchmark Dataset [1]
 
 The related paper is preparing.
 
+This repository follows the license [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+
 ## Brief introduction to proposed stimulus-stimulus transfer
 
 Since the different stimuli are same in one period, we assume that the responses of our brains are also same. The following figure shows the fundamental assumption. The left polar plot shows the dynamic patterns of the signal states. For all stimuli, the patterns of the signal states are same. For different stimuli, the roration speeds of the signal states are different. Disturbed by the non-SSVEP-related components, the real EEG signals are generated as shown in the right side.
