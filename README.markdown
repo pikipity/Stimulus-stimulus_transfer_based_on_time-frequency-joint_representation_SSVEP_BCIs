@@ -59,8 +59,6 @@ After downloading this repository, you can follow the follow steps to perform th
 
 ### Individual maximum ITR
 
-![ITR_14](./ITR_Acc_Summary/ITR_max_compare_14_8.png)
-![ITR_24](./ITR_Acc_Summary/ITR_max_compare_24_8.png)
-![ITR_54](./ITR_Acc_Summary/ITR_max_compare_54_8.png)
+![individual_ITR](./ITR_Acc_Summary/ITR_max_compare_all_8.png)
 
 
