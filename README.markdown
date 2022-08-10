@@ -1,12 +1,12 @@
-# Phase-domain transformation based stimulus-stimulus transfer for SSVEP-based BCI
+# Stimulus-stimulus transfer based on time-frequency-joint representation in SSVEP-based BCI
 
 This study is intended to achieve a general **stimulus-stimulus transfer** of SSVEP signals.
 
-To achieve the stimulus-stimulus transfer, this study proposes a new perspective to analyze the SSVEP signals, which is the **phase domain**. In the phase domain, the SSVEP signals of different stimuli are synchronized according to the stimulus frequencies and phases. Then, the common components of different stimuli can be emphasied and become possible to be characterized and extracted. From the phase-domain point of view, a new SSVEP signal model is proposed for the stimulus-stimuls transfer. Moreover, an adaptive decomposition approach based on the multi-channel adaptive Fourier decomposition (MAFD) is designed to estimate components in the porposed SSVEP model, which is the MAFD with different phases (DP-MAFD). 
+To achieve the stimulus-stimulus transfer, this study proposes a new perspective to analyze the SSVEP signals, which is the **time-frequency-joint representation**. In this representation, the SSVEP signals of different stimuli are synchronized according to the stimulus frequencies and phases. Then, the common components of different stimuli can be emphasied and become possible to be characterized and extracted. From the time-frequency-joint-representation point of view, a new SSVEP signal model is proposed for the stimulus-stimuls transfer. Moreover, an adaptive decomposition approach based on the multi-channel adaptive Fourier decomposition (MAFD) is designed to estimate components in the porposed SSVEP model, which is the MAFD with different phases (DP-MAFD). 
 
 Codes in this repository implement the simulations for the Benchmark Dataset [1]. Simulation results show the classification performance of SSVEP templates constructed by the proposed stimulus-stimulus trnasfer. 
 
-The related paper is preparing.
+The related paper has been accepted by IEEE TBME.
 
 This repository follows the license [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
