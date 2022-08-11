@@ -26,7 +26,7 @@ In the proposed stimulus-stimulus transfer, the DP-MAFD is firstly applied to de
 
 ## Run simulations
 
-After downloading this repository, you can follow the follow steps to perform the stimulations. The main codes are based on MATLAB and have been verified in MATLAB R2019a
+After downloading this repository, you can follow the follow steps to perform the stimulations. The main codes are based on MATLAB and have been verified in MATLAB R2019a.
 
 1. Download the Benchmark Dataset and put all 35 subjects' data in the `data` folder.
 
