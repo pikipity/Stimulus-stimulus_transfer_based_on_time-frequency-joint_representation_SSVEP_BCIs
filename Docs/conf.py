@@ -17,7 +17,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Stimulus-stimulus_transfer_based_on_time-frequency-joint_representation_SSVEP_BCIs'
+project = 'Stimulus-stimulus Transfer Based on Time-frequency-joint Representation in SSVEP-based BCIs'
 copyright = '2022, Ze Wang'
 author = 'Ze Wang'
 
