@@ -20,7 +20,7 @@ To achieve the stimulus-stimulus transfer, this study proposes a new perspective
 
 Codes in `this repository <https://github.com/pikipity/Stimulus-stimulus_transfer_based_on_time-frequency-joint_representation_SSVEP_BCIs.git>`_ implement the simulations for the Benchmark Dataset [1]. Simulation results show the classification performance of SSVEP templates constructed by the proposed stimulus-stimulus trnasfer. 
 
-The related paper has been accepted by IEEE TBME.
+The related paper: Ze Wang et al., "Stimulus-stimulus transfer based on time-frequency-joint representation in SSVEP-based BCIs," *IEEE Trans. Biomed. Eng.*, 2022. DOI: `10.1109/TBME.2022.3198639 <https://doi.org/10.1109/TBME.2022.3198639>`_.
 
 References
 --------------
