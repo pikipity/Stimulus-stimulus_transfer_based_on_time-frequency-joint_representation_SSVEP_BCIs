@@ -10,6 +10,23 @@ The related paper: Ze Wang et al., "Stimulus-stimulus transfer based on time-fre
 
 This repository follows the license [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
+## Citation
+
+If you use this repository, please cite the related paper:
+
+```
+@article{wang_stimulus-stimulus_2022,
+	title = {Stimulus-stimulus transfer based on time-frequency-joint representation in {SSVEP}-based {BCIs}},
+	volume = {70},
+	doi = {10.1109/TBME.2022.3198639},
+	number = {2},
+	journal = {IEEE Trans. Biomed. Eng.},
+	author = {Wang, Ze and Wong, Chi Man and Rosa, Agostinho and Qian, Tao and Jung, Tzyy-Ping and Wan, Feng},
+	year = {2022},
+	pages = {603--615},
+}
+```
+
 ## Brief introduction to proposed stimulus-stimulus transfer
 
 Since the different stimuli are same in one period, we assume that the responses of our brains are also same. The following figure shows the fundamental assumption. The left polar plot shows the dynamic patterns of the signal states. For all stimuli, the patterns of the signal states are same. For different stimuli, the roration speeds of the signal states are different. Disturbed by the non-SSVEP-related components, the real EEG signals are generated as shown in the right side.
